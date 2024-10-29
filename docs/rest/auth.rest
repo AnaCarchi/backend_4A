@@ -18,5 +18,5 @@ Content-Type:application/json
 }
 
 ### Users
- GET http://127.0.0.1:3000/auth/Users
- Authorization: Bearer eyJhbGcioiJINisInR5cCI6IkpXVCJ9.eyJl
+GET http://127.0.0.1:3000/auth/Users
+Authorization:  Bearer eyJhbGcioiJINisInR5cCI6IkpXVCJ9.eyJl
