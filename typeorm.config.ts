@@ -21,5 +21,3 @@ export default new DataSource({
 });
 
 
-//me quedo en la diapositiva 12
-//tengo un error con unget
